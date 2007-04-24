@@ -1,0 +1,7 @@
+Revision history for Games-Sudoku-Component-TkPlayer
+
+0.01 2007/04/24
+  - initial CPAN release
+  - first presented as Tk::Games::Sudoku
+    at http://tokyo.yapcasia.org/sessions/lets_play_sudoku.html
+    (2006/03/30)
