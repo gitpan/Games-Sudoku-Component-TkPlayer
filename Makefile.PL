@@ -16,4 +16,7 @@ WriteMakefile(
         'Tk::ProgressBar'  => 0,
     },
     EXE_FILES => [qw( script/tksudoku.pl )],
+    ($ExtUtils::MakeMaker::VERSION >= 6.31 ?
+      (LICENSE => 'perl') : ()
+    ),
 );

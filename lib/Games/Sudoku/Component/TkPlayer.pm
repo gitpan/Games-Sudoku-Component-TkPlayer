@@ -3,7 +3,7 @@ package Games::Sudoku::Component::TkPlayer;
 use strict;
 use warnings;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Tk;
 use Games::Sudoku::Component::TkPlayer::View;
